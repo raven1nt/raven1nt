@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Codewars](https://github.r2v.ch/codewars?user=raven1nt&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=purple_dark)
 <!--
 **raven1nt/raven1nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
